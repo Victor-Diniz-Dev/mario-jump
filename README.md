@@ -1,6 +1,6 @@
 # 🎮 Mario Jump
 
-Jogo estilo infinite runner inspirado no clássico Super Mario Bros, onde o jogador controla o Mario para pular canos e nuvens sem parar até encerrar o jogo.
+Jogo estilo infinite runner inspirado no clássico Super Mario Bros, onde o jogador controla o Mario para pular canos sem parar até encerrar o jogo.
 
 <p align="center">
   <img src="assets/image.png" width="600" alt="Interface do Game"/>
