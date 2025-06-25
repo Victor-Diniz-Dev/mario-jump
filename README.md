@@ -28,7 +28,7 @@ Mario Jump é um jogo simples desenvolvido com HTML, CSS e JavaScript. O objetiv
 
 💻 JavaScript (DOM, Eventos, Audio API)
    
-### 🚀 Como Executar
+## 🚀 Como Executar
 
 Clone este repositório:
 
