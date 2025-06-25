@@ -37,11 +37,7 @@
     animation: clouds-animation 20s infinite linear;
 }
 
-h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 900;
-    position: absolute;
-}
+
 
 @keyframes pipe-animation {
     from {
